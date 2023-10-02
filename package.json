@@ -1,0 +1,26 @@
+{
+	"name": "help_me_out",
+	"version": "0.1.0",
+	"private": true,
+	"scripts": {
+		"dev": "next dev",
+		"build": "npm build"
+	},
+	"dependencies": {
+		"clsx": "^2.0.0",
+		"next": "latest",
+		"react": "latest",
+		"react-dom": "latest",
+		"sass": "^1.68.0",
+		"tailwind-merge": "^1.14.0"
+	},
+	"devDependencies": {
+		"@types/node": "latest",
+		"@types/react": "latest",
+		"@types/react-dom": "latest",
+		"autoprefixer": "latest",
+		"postcss": "latest",
+		"tailwindcss": "latest",
+		"typescript": "latest"
+	}
+}
